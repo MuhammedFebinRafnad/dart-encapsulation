@@ -3,7 +3,6 @@ class Boy{
   int? _age;
  String getname(){
   return this._name!;
-
  }
  int getage(){
   return this._age!;
